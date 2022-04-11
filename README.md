@@ -1,11 +1,7 @@
 # Mi_Portafolio
 #
 # *Mi Mejor Carta De Presentacion*
-
 # 
-#
-#
-
 Requerimientos técnicos ⚙️
 
 * El proyecto DEBE utilizar la metodología Scrum.
@@ -26,10 +22,24 @@ __
 **El Proyecto Es 100% pensado y creado originalmente**
 #
 #
-### *mockup*
+[Mookup](https://github.com/Jhuset2003/Mi_Portafolio/blob/main/portafolio/imgMuestra/Carpetas.png)
 #
-[Mookup](https://www.figma.com/file/4X9bxY3c6T8c1eiPb6i1uM/Untitled?node-id=0%3A1)
+## Imagenes
 #
+Carpetas
+#
+![Carpetas](https://github.com/Jhuset2003/CRUDo/blob/dev/assets/imgReadme/Carpetas.png)
+#
+Ejemplo Codigo
+#
+![Code](https://github.com/Jhuset2003/Mi_Portafolio/blob/main/portafolio/imgMuestra/Code.png)
+#
+Web
+#
+![muestraCodigoCarpetas](https://github.com/Jhuset2003/Mi_Portafolio/blob/main/portafolio/imgMuestra/Muestra.png)
+#
+WebResponsive
+![muestraCodigoCarpetas](https://github.com/Jhuset2003/Mi_Portafolio/blob/main/portafolio/imgMuestra/Responsive.png)
 #
 ---
 # Creditos:
@@ -47,9 +57,7 @@ __
 ```
 
 #
-[Link de la LandinPage github_Pages:](https://jhuset2003.github.io/Impacto_Covid-19_en_el_mundo/)
+[Link Despliegue](https://jhuset2003.github.io/Mi_Portafolio/)
 #
-
-#
-[Link a scrum:](https://lauravargas.atlassian.net/jira/software/projects/COV/boards/7)
+[Link a scrum:](https://ajweb2003.atlassian.net/jira/software/projects/AJ2003/boards/2)
 #
