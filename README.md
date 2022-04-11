@@ -28,7 +28,6 @@ __
 #
 ### *mockup*
 #
-# DASHBOARD
 ![Mookup](https://www.figma.com/file/4X9bxY3c6T8c1eiPb6i1uM/Untitled?node-id=0%3A1)
 #
 #
