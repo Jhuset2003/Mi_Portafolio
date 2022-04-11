@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Mi_Portafolio/static/css/main.d7302b71.css",
-    "main.js": "/Mi_Portafolio/static/js/main.5d8695eb.js",
+    "main.js": "/Mi_Portafolio/static/js/main.a855d4f7.js",
     "static/media/DOM.png": "/Mi_Portafolio/static/media/DOM.2c709886534f02782683.png",
     "static/media/demo2.png": "/Mi_Portafolio/static/media/demo2.9a9236682a55ec48a7bf.png",
     "static/media/CRUDO.png": "/Mi_Portafolio/static/media/CRUDO.dd2e77db066e230a98cb.png",
@@ -11,10 +11,10 @@
     "static/media/Covid.jpg": "/Mi_Portafolio/static/media/Covid.95d00ea97552472bf19b.jpg",
     "index.html": "/Mi_Portafolio/index.html",
     "main.d7302b71.css.map": "/Mi_Portafolio/static/css/main.d7302b71.css.map",
-    "main.5d8695eb.js.map": "/Mi_Portafolio/static/js/main.5d8695eb.js.map"
+    "main.a855d4f7.js.map": "/Mi_Portafolio/static/js/main.a855d4f7.js.map"
   },
   "entrypoints": [
     "static/css/main.d7302b71.css",
-    "static/js/main.5d8695eb.js"
+    "static/js/main.a855d4f7.js"
   ]
 }
