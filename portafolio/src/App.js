@@ -13,11 +13,11 @@ function App() {
     <div className='ContainerAll'>
       <Nav/>
       <Routes>
-       <Route exact path="/Mi_Portafolio" element={<Home/>} />
-       <Route path="/Mi_Portafolio/AboutMe" element={<AboutMe/>} />
-       <Route path="/Mi_Portafolio/Contacts" element={<Contacts/>} />
-       <Route path="/Mi_Portafolio/Curriculum" element={<Curriculum/>} />
-       <Route path="/Mi_Portafolio/Projects" element={<Projects/>} />
+       <Route exact path="/Mi_Portafolio/" element={<Home/>} />
+       <Route path="/AboutMe" element={<AboutMe/>} />
+       <Route path="/Contacts" element={<Contacts/>} />
+       <Route path="/Curriculum" element={<Curriculum/>} />
+       <Route path="/Projects" element={<Projects/>} />
      </Routes>
      <Footer/>
     </div>
