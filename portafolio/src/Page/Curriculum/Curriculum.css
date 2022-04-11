@@ -1,0 +1,26 @@
+.Curriculum{
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    align-items: center;
+    flex-direction: column;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+.CurriculumLetters{
+    text-align: center;
+    font-family: 'Fredoka One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: calc(2rem + 3vw);
+    line-height: 77px;
+    text-decoration-line: underline;
+    color: white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    
+}
+.CVContainer{
+    margin-left: 10px;
+    margin-right: 20px;
+}

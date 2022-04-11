@@ -1,0 +1,34 @@
+.BtnGit a{
+    text-decoration: none;
+}
+.BtnGit{
+    background-color: white;
+    border: none;
+    display: flex;
+    align-self: center;
+    align-items: center;
+    justify-content: flex-start;
+    border-radius: 5px;
+    width: calc(12rem + 20vw);
+}
+.BtnGit i{
+    display: flex;
+    font-size: calc(2rem + 3vw);
+    margin-right: 12px;
+    
+}
+.BtnGit p{
+    margin: 0;
+    font-size: calc(1rem + 1.5vw);
+    font-family: 'Cairo';
+    font-style: normal;
+    font-weight: 700;
+    line-height: 67px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.BtnGit:hover{
+    background-color: aliceblue;
+    box-shadow: 4px 4px 4px 2px rgba(0, 0, 0, 0.2);
+}

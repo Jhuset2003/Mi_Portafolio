@@ -1,0 +1,20 @@
+[
+    {
+  "id":"1", 
+  "name":"Toquen El Dom",
+  "img": "DOM.png",
+  "link": "https://elastic-perlman-4b5cea.netlify.app"
+},
+{
+    "id":"2" , 
+    "name":"Impacto Del Covid-19",
+    "img": "Covid.jpg",
+    "link": "https://jhuset2003.github.io/Impacto_Covid-19_en_el_mundo/"
+  },
+  {
+    "id":"3" , 
+    "name":"CRUDo",
+    "img": "CRUDO.png",
+    "link": "https://crudaj-db.000webhostapp.com/CRUDo/index.php?c=inicio"
+  }
+]

@@ -1,0 +1,10 @@
+html{
+    margin-top: 60px;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+body{
+   
+    background: url(Img/texCode.png), #757A7E;
+    
+}

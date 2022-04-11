@@ -1,0 +1,61 @@
+.carousel-inner{
+    width: calc(22rem + 15vw) ;
+    height: calc(22rem + 15vw) ;
+    border-radius: 50%;
+    border: 10px solid black;
+}
+.coverCarousel{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, 0.457);
+    position: absolute;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+}
+.LogCarousel{
+    position: absolute;
+    z-index: 2;
+    background-color: aliceblue;
+    border-radius: 50%;
+    width: calc(12rem + 8vw);
+    height: calc(12rem + 8vw);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+}
+.LogCarousel img{
+    width: 290px;
+    height: 290px;
+}
+.carousel-item img{
+    width: 100%;
+    height: 100%;
+}
+.carousel-item{
+    height: 100%;
+}
+@media screen and (min-width: 1111px){
+    .carousel-inner{
+        width: 100%;
+        height: 100vh;
+        border-radius: 0;
+        
+    }
+    .coverCarousel{
+        border-radius: 0;
+    }
+    .LogCarousel{
+        width: calc(15rem + 10vw);
+        height: calc(15rem + 10vw);
+        
+    }
+    .LogCarousel img{
+        width: 390px;
+        height: 390px;
+    }
+}

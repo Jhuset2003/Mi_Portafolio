@@ -1,0 +1,45 @@
+.CardProjects img{
+    width: 100%;
+    height: 76%;
+}
+.CardProjects{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    width: 100%;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 100%;
+    padding-bottom: 10px;
+}
+.CardContainer{
+    width: calc(10rem + 20vw);
+    height: calc(10rem + 20vw);
+    display: flex;
+    justify-content: center;
+}
+.CardContainer a{
+    text-decoration: none;
+    font-family: 'Cairo';
+    font-style: normal;
+    font-weight: bold;
+    color: #000000;
+}
+.CardProjectsTitle{
+    background-color: #8EC1DE;
+    width: auto;
+    height: auto;
+    width: 100%;
+    height: calc(2rem + 2vw);
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.CardProjectsTitle h2{
+    font-weight: bold !important;
+    line-height: 1 !important;
+    font-size: calc(1rem + 1vw);
+    margin-top: 5px;
+    margin-left: 5px;
+    
+}

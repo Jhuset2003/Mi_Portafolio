@@ -1,0 +1,36 @@
+.BtnGmail a{
+    text-decoration: none;
+}
+.BtnGmail{
+    background-color: rgb(255, 135, 135);
+    border: none;
+    display: flex;
+    align-self: center;
+    align-items: center;
+    justify-content: flex-start;
+    border-radius: 5px;
+    width: calc(12rem + 20vw);
+    
+}
+.BtnGmail i{
+    display: flex;
+    font-size: calc(2rem + 3vw);
+    margin-right: 12px;
+    color: red;
+    
+}
+.BtnGmail p{
+    margin: 0;
+    font-size: calc(1rem + 1.5vw);
+    font-family: 'Cairo';
+    font-style: normal;
+    font-weight: 700;
+    line-height: 67px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.BtnGmail:hover{
+    background-color: rgb(255, 94, 94);
+    box-shadow: 4px 4px 4px 2px rgba(0, 0, 0, 0.2);
+}

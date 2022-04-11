@@ -1,0 +1,24 @@
+.ProjectsLetters{
+    font-family: 'Fredoka One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: calc(2rem + 2vw);
+    line-height: 58px;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.Projects{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+}
+.Cards{
+    height: 70vh;
+    overflow-y: scroll;
+}
+.Cards::-webkit-scrollbar{
+    display: none;
+}

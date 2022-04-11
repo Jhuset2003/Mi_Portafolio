@@ -1,0 +1,62 @@
+.CV{
+    background-color: #E5E5E5;
+    width: 100%;
+    font-family: 'Cairo';
+    font-style: normal;
+    font-weight: 600;
+    margin-bottom: 60px;
+}
+.CV::-webkit-scrollbar{
+    display: none;
+}
+
+.CVTitle{
+    background-color: #C4C4C4;
+    display: flex;
+    justify-content: center;
+    font-size: calc(1rem + 5vw);
+}
+.CVBody{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.CVBody img{
+    width: calc(15rem + 20vw);
+}
+.EXP h3{
+    text-decoration: underline;
+    font-size: calc(1rem + 2.5vw);
+    font-weight: bold;
+}
+.EXP p{
+    font-size: calc(0.4rem + 2.5vw);
+}
+.Capabilities h3{
+    text-decoration: underline;
+    font-size: calc(1rem + 2.5vw);
+    font-weight: bold;
+
+}
+.Capabilities ul{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    font-size: calc(1rem + 5vw);
+}
+.CVImgContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    background-color: white;
+    width: calc(11rem + 16vw);
+    height: calc(11rem + 16vw);
+    border-radius: 50%;
+}
