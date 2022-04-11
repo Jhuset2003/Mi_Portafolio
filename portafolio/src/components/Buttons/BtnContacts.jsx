@@ -5,7 +5,7 @@ import { NavLink } from "react-router-dom";
 function BtnContacts() {
     return(
         <div className='btnContactsContainer dropdown-item'>
-            <NavLink className="nav-link" to="/Contacts">
+            <NavLink className="nav-link" to="/Mi_Portafolio/Contacts">
                 <button>
                     <i><FaPhone/></i>
                 </button>

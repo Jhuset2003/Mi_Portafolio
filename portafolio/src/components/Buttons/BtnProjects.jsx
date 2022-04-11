@@ -5,7 +5,7 @@ import { NavLink } from "react-router-dom";
 function BtnProjects() {
     return(
         <div className='btnProjectContainer dropdown-item'>
-            <NavLink className="nav-link" to="/Projects">
+            <NavLink className="nav-link" to="/Mi_Portafolio/Projects">
                 <button>
                     <i><IoIosConstruct/></i>
                 </button>

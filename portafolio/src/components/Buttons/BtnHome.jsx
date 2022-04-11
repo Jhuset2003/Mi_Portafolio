@@ -5,7 +5,7 @@ import { NavLink } from "react-router-dom";
 function BtnHome() {
     return(
         <div className='btnHome dropdown-item'>
-            <NavLink className="nav-link" to="/">
+            <NavLink className="nav-link" to="/Mi_Portafolio">
                 <button>
                     <i><AiFillHome/></i>
                 </button>
